@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: var(--container-width)
+    width: var(--container-width); 
     margin: auto;
 }
 ul.nav{
@@ -39,7 +39,7 @@ section.hero{
 }
 .heroContainer{
     margin: auto;
-    width: var(--container-width)
+    width: var(--container-width);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,7 +62,7 @@ section.hero{
     margin: 0;
 }
 .project{
-    width: var(--container-width)
+    width: var(--container-width);
     margin: auto;
     margin-top: 60px;
 }
