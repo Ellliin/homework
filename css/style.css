@@ -207,6 +207,7 @@ footer{
     top: 30px;
     background-color: white;
     width: 100vw;
+    display: none;
 }
 .mNavItem.selected{
     font-weight: bold;
